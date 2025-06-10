@@ -12,17 +12,17 @@ const CustomPage = () => {
     {
       title: 'Primeiro Card',
       description: 'Ruby Bell.',
-      image: 'image1',
+      image: image1,
     },
     {
       title: 'Segundo Card',
       description: 'James Beaufort.',
-      image: 'image2',
+      image: image2,
     },
     {
       title: 'Terceiro Card',
       description: 'os dois juntos.',
-      image: 'image3',
+      image: image3,
     },
   ];
 
@@ -42,6 +42,3 @@ const CustomPage = () => {
 };
 
 export default CustomPage;
-
-
-
